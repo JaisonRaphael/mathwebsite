@@ -219,7 +219,7 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 
-![calculations]("C:\Users\Jaison\OneDrive\Pictures\Screenshots\cn.png")
+![pic](https://user-images.githubusercontent.com/94165957/154072625-f232a80f-79d7-41f2-9702-17a2a1df3880.png)
 
 ## Result:
 
