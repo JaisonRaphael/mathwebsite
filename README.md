@@ -219,7 +219,7 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 
-![calculations](cn.png)
+![calculations]("C:\Users\Jaison\OneDrive\Pictures\Screenshots\cn.png")
 
 ## Result:
 
